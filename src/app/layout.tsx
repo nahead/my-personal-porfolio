@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     title: "Nahead Jokhio | Full Stack & AI Developer",
     description:
       "Explore Nahead Jokhio’s portfolio — Full Stack Developer crafting intelligent web applications with Next.js, Node.js, and AI integrations.",
-    url: "https://your-portfolio-link.vercel.app/",
+    url: "https://my-personal-porfolio-navy.vercel.app/",
     siteName: "Nahead Jokhio Portfolio",
     images: [
       {
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.ico",
   },
-  metadataBase: new URL("https://your-portfolio-link.vercel.app"),
+  metadataBase: new URL("https://my-personal-porfolio-navy.vercel.app/"),
 };
 
 export default function RootLayout({
